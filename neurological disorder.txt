@@ -1,0 +1,22 @@
+neurological disorder
+alzhemer , Parkinson,(some specific disorder)
+gemini -> which disease is research going on.
+dataset to detect, 10 models- acc, f1 score, recall, precision, computational time, error rate, loss function
+hyper parameter, adam optimizer, 
+lasso regression, 
+pooling - soft, max, 
+drug 
+
+second part- 
+nano materials - 5 materials (non-invasive)
+a, b, c 
+bbb - gate blood brain barrier 
+should not cross 
+these nm should act in brain
+substained releaser - will release medicine powder
+
+eeg dataset - nervous signals, using proposed method evaluate eeg dataset.
+
+latest methods - apply.
+
+hyperparameter, optimizer, lasso regression: add to lightgbm
